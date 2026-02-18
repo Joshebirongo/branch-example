@@ -1,5 +1,5 @@
-Software Engineer specializing in full-stack web development with strong experience in JavaScript and Python. Skilled in building scalable RESTful and GraphQL APIs, designing clean architectures, and delivering maintainable, high-quality code.
+مهندس برمجيات متخصص في تطوير الويب متكامل الجوانب (Full-Stack) مع خبرة قوية في JavaScript وPython. أمتلك مهارات عالية في بناء واجهات برمجة تطبيقات قابلة للتوسع باستخدام RESTful وGraphQL، وتصميم هياكل معمارية نظيفة، وتقديم شيفرة برمجية قابلة للصيانة وعالية الجودة.
 
-I have hands-on experience developing backend systems with Node.js, Express, Django, and Flask, working with both relational and non-relational databases. I focus on writing clean, testable code following SOLID principles and best practices in software architecture.
+لدي خبرة عملية في تطوير الأنظمة الخلفية باستخدام Node.js وExpress وDjango وFlask، والعمل مع قواعد البيانات العلائقية وغير العلائقية. أركز على كتابة شيفرة نظيفة وقابلة للاختبار وفق مبادئ SOLID وأفضل الممارسات في هندسة البرمجيات.
 
-Passionate about solving real-world problems through technology, I enjoy designing efficient systems, optimizing performance, and continuously improving code quality. I am committed to continuous learning, collaboration, and delivering reliable solutions that create measurable impact.
+شغوف بحل المشكلات الواقعية من خلال التكنولوجيا، وأستمتع بتصميم أنظمة فعّالة، وتحسين الأداء، والتحسين المستمر لجودة الشيفرة. ألتزم بالتعلم المستمر، والعمل التعاوني، وتقديم حلول موثوقة تُحدث تأثيرًا ملموسًا.

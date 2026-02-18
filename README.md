@@ -1,0 +1,5 @@
+Ingénieur logiciel spécialisé en développement web full-stack, possédant une solide expérience en JavaScript et Python. Maîtrise de la création d'API RESTful et GraphQL évolutives, de la conception d'architectures propres et de la livraison de code maintenable et de haute qualité.
+
+J'ai une expérience pratique du développement de systèmes backend avec Node.js, Express, Django et Flask, et je travaille avec des bases de données relationnelles et non relationnelles. Je privilégie un code propre et testable, respectant les principes SOLID et les bonnes pratiques d'architecture logicielle.
+
+Passionné par la résolution de problèmes concrets grâce à la technologie, j'apprécie concevoir des systèmes efficaces, optimiser les performances et améliorer continuellement la qualité du code. Je m'engage à apprendre en permanence, à collaborer et à fournir des solutions fiables ayant un impact mesurable.
